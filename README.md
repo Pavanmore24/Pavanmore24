@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavan More</h1>
 <h3 align="center">A passionate full stack devloper from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanmore24" alt="pavanmore24" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavan_more03" alt="pavan__more03" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/morepavan03" target="blank"><img src="https://img.shields.io/twitter/follow/morepavan03?logo=twitter&style=for-the-badge" alt="morepavan03" /></a> </p>
 
