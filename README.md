@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **- Festival Greeting Generator**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 Exploring Spring Boot and Microservices design patterns to enhance my backend development skills and understand distributed system architecture.
 
-- 👯 I’m looking to collaborate on **java native projects**
+- 👯I’m looking to collaborate on Java backend projects, especially those involving Spring Boot and Microservices.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
